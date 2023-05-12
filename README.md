@@ -1,6 +1,6 @@
 HotProspects
 
-you can create your and friend's qr-code and mark them 
+you can create your client's qr-code and mark them 
 
 
 
