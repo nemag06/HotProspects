@@ -11,6 +11,7 @@ Built using
 * Xcode v13.
 * Swift v5.3
 
+## Sample screenshots 
 
 <img alt="Hot Prospects app screenshot" src="https://github.com/nemag06/HotProspects/assets/118446028/2c8a6d00-4152-4362-ad39-21282ca97623" width=180>
 <img alt="Hot Prospects app screenshot" src="https://github.com/nemag06/HotProspects/assets/118446028/77db6cac-fef2-49a3-81aa-25fbaebefe6c" width=180>
