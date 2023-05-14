@@ -13,8 +13,8 @@ Built using
 
 ## Sample screenshots 
 
-<img alt="Hot Prospects app screenshot" src="https://github.com/nemag06/HotProspects/assets/118446028/2c8a6d00-4152-4362-ad39-21282ca97623" width=180>
-<img alt="Hot Prospects app screenshot" src="https://github.com/nemag06/HotProspects/assets/118446028/77db6cac-fef2-49a3-81aa-25fbaebefe6c" width=180>
-<img alt="Hot Prospects app screenshot" src="https://github.com/nemag06/HotProspects/assets/118446028/cf1b19d0-566d-432f-bde9-ee34c331dae0" width=180>
-<img alt="Hot Prospects app screenshot" src="https://github.com/nemag06/HotProspects/assets/118446028/ddf05dab-0d65-4d1d-a465-84f90c9256bd" width=180>
+<img alt="Hot Prospects app screenshot" src="https://github.com/nemag06/HotProspects/assets/118446028/2c8a6d00-4152-4362-ad39-21282ca97623" width=170>
+<img alt="Hot Prospects app screenshot" src="https://github.com/nemag06/HotProspects/assets/118446028/77db6cac-fef2-49a3-81aa-25fbaebefe6c" width=170>
+<img alt="Hot Prospects app screenshot" src="https://github.com/nemag06/HotProspects/assets/118446028/cf1b19d0-566d-432f-bde9-ee34c331dae0" width=170>
+<img alt="Hot Prospects app screenshot" src="https://github.com/nemag06/HotProspects/assets/118446028/ddf05dab-0d65-4d1d-a465-84f90c9256bd" width=170>
 
